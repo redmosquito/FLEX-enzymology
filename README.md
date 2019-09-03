@@ -1,5 +1,5 @@
-# Analyzing flow extension (FLEX) single molecule enzymology data in MATLAB
-A readme.
+# FLEXanalyzer
+Analyzing flow extension (FLEX) single molecule enzymology data in MATLAB
 
 ### Author of repository
 Andrew A. Drabek
