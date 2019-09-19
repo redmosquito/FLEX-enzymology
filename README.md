@@ -15,7 +15,7 @@ Drabek, A. A.; Loparo, J.J.; and Blacklow, S.C. A Flow-Extension Tethered Partic
 ## Dependencies:
 This work uses two other MATLAB software packages: 
 
-(1) particle tracking algorithm
+####(1) particle tracking algorithm
 
 Former url: http://people.umass.edu/kilfoil/tools.php (broken link).
 
@@ -26,7 +26,7 @@ Pelletier, V., Gal, N., Fournier, P., and Kilfoil, M.L. (2009). Microrheology of
 Crocker, J.C. and Grier, D.G. (1996). Methods of digital video microscopy for colloidal studies. J of Colloid  Interface Sci 179, 298-310.
 
 
-(2) trajectory visualization and mean-square displacement analysis, @msdanalyzer (view license: https://github.com/tinevez/msdanalyzer)
+####(2) trajectory visualization and mean-square displacement analysis, @msdanalyzer (view license: https://github.com/tinevez/msdanalyzer)
     
 Tarantino, N., Tinevez, J.Y., Crowell, E.F., Boisson, B., Henriques, R., Mhlanga, M., Agou, F., Israel, A., and Laplantine, E. (2014). TNF and IL-1 exhibit distinct ubiquitin requirements for inducing NEMO-IKK supramolecular structures. J Cell Biol 204, 231-245.
   urls: https://tinevez.github.io/msdanalyzer/
@@ -34,25 +34,29 @@ Tarantino, N., Tinevez, J.Y., Crowell, E.F., Boisson, B., Henriques, R., Mhlanga
 
 Additionally to run you also need to have in your path:
 
-(3) a function called 'sort_nat.m' (Author: Douglas M. Schwartz, version 1-4, 22 January 2011, Copyright (C) 2008 Douglas Schwartz)
+####(3) a function called 'sort_nat.m' (Author: Douglas M. Schwartz, version 1-4, 22 January 2011, Copyright (C) 2008 Douglas Schwartz)
     url: https://www.mathworks.com/matlabcentral/fileexchange/10959-sort_nat-natural-order-sort
 
 
 You will also need to have the Bio-Formats package (open source) added to your path, since the input this code was written for came from an Open Microscopy Environment (OME) file format:
 
-(4) Bio-Formats MATLAB Toolbox (Copyright (C) 2007 - 2015 Open Microscopy Environment)
-    urls: https://www.openmicroscopy.org/bio-formats/downloads/
-    
-          https://docs.openmicroscopy.org/bio-formats/6.2.1/users/matlab/index.html
-         
-          https://github.com/ome/bio-formats-documentation/blob/master/sphinx/users/matlab/index.rst
+####(4) Bio-Formats MATLAB Toolbox (Copyright (C) 2007 - 2015 Open Microscopy Environment)
+
+urls: 
+
+https://www.openmicroscopy.org/bio-formats/downloads/
+
+https://docs.openmicroscopy.org/bio-formats/6.2.1/users/matlab/index.html
+
+https://github.com/ome/bio-formats-documentation/blob/master/sphinx/users/matlab/index.rst
     
 
 Finally, you need to have the two Package Apps (available from Mathworks) that can be installed through the Add-On Manager
 
-(5) Statistics and Machine Learning Toolbox
+####(5) Statistics and Machine Learning Toolbox
 
-(6) Curve Fitting Toolbox
+####(6) Curve Fitting Toolbox
+
 
 ### License
 Copyright (C) 2019 Andrew A. Drabek
