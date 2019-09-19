@@ -15,11 +15,11 @@ Drabek, A. A.; Loparo, J.J.; and Blacklow, S.C. A Flow-Extension Tethered Partic
 ## Dependencies:
 This work uses two other MATLAB software packages: 
 
-#### (1) particle tracking algorithm
+#### (1) particle tracking algorithm (written by Paul Fournier, Vincent Pelletier and Maria Kilfoil, Univ. Mass. - Amherst)
 
 Former url: http://people.umass.edu/kilfoil/tools.php (broken link).
 
-To my knowledge the tracking source code from the Kilfoil Lab is no longer available online. I have included the code on this page (see ParticleTracking_Kilfoil) for the benefit to those who wish to use the FLEXanalyzer package. I am indebted to the authors of this work - Paul Fournier, Vincent Pelletier and Maria Kilfoil
+To my knowledge the tracking source code from the Kilfoil Lab is no longer available online. I have included the code on this page (see ParticleTracking_Kilfoil) for the benefit to those who wish to use the FLEXanalyzer package. 
 
 Pelletier, V., Gal, N., Fournier, P., and Kilfoil, M.L. (2009). Microrheology of microtubule solutions and actin-microtubule composite networks. Phys Rev Lett 102, 188303.
 
