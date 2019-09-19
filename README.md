@@ -35,12 +35,14 @@ Tarantino, N., Tinevez, J.Y., Crowell, E.F., Boisson, B., Henriques, R., Mhlanga
 Additionally to run you also need to have in your path:
 
 #### (3) a function called 'sort_nat.m' (Author: Douglas M. Schwartz, version 1-4, 22 January 2011, Copyright (C) 2008 Douglas Schwartz)
-    url: https://www.mathworks.com/matlabcentral/fileexchange/10959-sort_nat-natural-order-sort
+url: https://www.mathworks.com/matlabcentral/fileexchange/10959-sort_nat-natural-order-sort
 
 
-You will also need to have the Bio-Formats package (open source) added to your path, since the input this code was written for came from an Open Microscopy Environment (OME) file format:
+
 
 #### (4) Bio-Formats MATLAB Toolbox (Copyright (C) 2007 - 2015 Open Microscopy Environment)
+
+You will also need to have the Bio-Formats package (open source) added to your path, since the input this code was written for came from an Open Microscopy Environment (OME) file format:
 
 urls: 
 
@@ -51,11 +53,12 @@ https://docs.openmicroscopy.org/bio-formats/6.2.1/users/matlab/index.html
 https://github.com/ome/bio-formats-documentation/blob/master/sphinx/users/matlab/index.rst
     
 
-Finally, you need to have the two Package Apps (available from Mathworks) that can be installed through the Add-On Manager
 
-#### (5) Statistics and Machine Learning Toolbox
+#### (5) Statistics and Machine Learning Toolbox, and
 
 #### (6) Curve Fitting Toolbox
+
+Finally, you need to have the two Package Apps (available from Mathworks) that can be installed through the Add-On Manager
 
 
 ### License
