@@ -18,6 +18,7 @@ This work uses two other MATLAB software packages:
 (1) particle tracking algorithm
 
 Former url: http://people.umass.edu/kilfoil/tools.php (broken link).
+
 To my knowledge the tracking source code from the Kilfoil Lab is no longer available online. I have included the code on this page (see ParticleTracking_Kilfoil) for the benefit to those who wish to use the FLEXanalyzer package. I am indebted to the authors of this work - Paul Fournier, Vincent Pelletier and Maria Kilfoil
 
 Pelletier, V., Gal, N., Fournier, P., and Kilfoil, M.L. (2009). Microrheology of microtubule solutions and actin-microtubule composite networks. Phys Rev Lett 102, 188303.
@@ -40,9 +41,11 @@ Additionally to run you also need to have in your path:
 You will also need to have the Bio-Formats package (open source) added to your path, since the input this code was written for came from an Open Microscopy Environment (OME) file format:
 
 (4) Bio-Formats MATLAB Toolbox (Copyright (C) 2007 - 2015 Open Microscopy Environment)
-    url: https://www.openmicroscopy.org/bio-formats/downloads/
-         https://docs.openmicroscopy.org/bio-formats/6.2.1/users/matlab/index.html
-         https://github.com/ome/bio-formats-documentation/blob/master/sphinx/users/matlab/index.rst
+    urls: https://www.openmicroscopy.org/bio-formats/downloads/
+    
+          https://docs.openmicroscopy.org/bio-formats/6.2.1/users/matlab/index.html
+         
+          https://github.com/ome/bio-formats-documentation/blob/master/sphinx/users/matlab/index.rst
     
 
 Finally, you need to have the two Package Apps (available from Mathworks) that can be installed through the Add-On Manager
